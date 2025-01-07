@@ -17,6 +17,8 @@ public class HelloWorld {
    System.out.println(x);
    int y = 8;
    System.out.println(y);
+   int z=9;
+   System.out.println(z);
 
 
   
