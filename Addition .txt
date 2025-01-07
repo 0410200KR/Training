@@ -8,5 +8,6 @@ public static void main(String[] args){
   int b=sc.nextInt();
   int c=6;
   int d=7;
+  int r=9;
   System.out.println(addition(a,b);
 }
